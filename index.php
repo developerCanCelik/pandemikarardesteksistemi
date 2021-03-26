@@ -484,7 +484,7 @@ include 'header.php';
 				<div class="card-body">
 					<div class="row no-gutters align-items-center">
 						<div class="col mr-2">
-							<div class="text-xs font-weight-bold text-success text-uppercase mb-1">Negativ <b>Çalışan</b> Sayısı</div>
+							<div class="text-xs font-weight-bold text-success text-uppercase mb-1">Negatif <b>Çalışan</b> Sayısı</div>
 							<div class="h4 mb-0 font-weight-bold text-gray-800"><?php echo $negatif_biten_sayi_cek; ?></div>
 						</div>
 						<div class="col-auto">
@@ -505,7 +505,7 @@ include 'header.php';
 				<div class="card-body">
 					<div class="row no-gutters align-items-center">
 						<div class="col mr-2">
-							<div class="text-xs font-weight-bold text-danger text-uppercase mb-1">Pozitiv <b>Çalışan</b> Sayısı</div>
+							<div class="text-xs font-weight-bold text-danger text-uppercase mb-1">Pozitif <b>Çalışan</b> Sayısı</div>
 							<div class="h4 mb-0 font-weight-bold text-gray-800"><?php echo $pozitif_calisan_sayisi_cek; ?></div>
 						</div>
 						<div class="col-auto">
