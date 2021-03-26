@@ -1,1 +1,1 @@
-# pandemikarardesteksistemi Pandemi Dönemi Karar Destek Sistemleri Çalışması
+Pandemi Dönemi Karar Destek Sistemleri Çalışması
